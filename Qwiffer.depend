@@ -1,0 +1,700 @@
+# depslib dependency file v1.0
+1394918559 source:c:\users\user\desktop\c++ progs\qwiffer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"SWFReader.h"
+
+1394929871 c:\users\user\desktop\c++ progs\qwiffer\swfstruct.h
+	<string>
+	<vector>
+	"BasicTypes.h"
+	"SWFTags.h"
+
+1394774898 c:\users\user\desktop\c++ progs\qwiffer\basictypes.h
+	<climits>
+	<cstdint>
+
+1394929995 source:c:\users\user\desktop\c++ progs\qwiffer\swfstruct.cpp
+	"SWFStruct.h"
+
+1394840401 c:\users\user\desktop\c++ progs\qwiffer\swfreader.h
+	"SWFStruct.h"
+	<memory>
+
+1394927984 c:\users\user\desktop\c++ progs\qwiffer\swftags.h
+	"BasicTypes.h"
+
+1394414647 source:c:\users\user\desktop\c++ progs\qwiffer\basictypes.cpp
+	"BasicTypes.h"
+
+1394916440 source:c:\users\user\desktop\c++ progs\qwiffer\swfreader.cpp
+	"SWFReader.h"
+	"BasicTypesReader.h"
+	"SWFCompressor.h"
+	<cstring>
+	<iostream>
+
+1394840273 c:\users\user\desktop\c++ progs\qwiffer\basictypesreader.h
+	"BasicTypes.h"
+
+1394851127 source:c:\users\user\desktop\c++ progs\qwiffer\basictypesreader.cpp
+	"BasicTypesReader.h"
+
+1339675112 c:\users\user\desktop\c++ progs\qwiffer\zlib\zlib.h
+	"zconf.h"
+
+1339675226 c:\users\user\desktop\c++ progs\qwiffer\zlib\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1394953712 source:c:\users\user\desktop\c++ progs\qwiffer\swfcompressor.cpp
+	"SWFCompressor.h"
+	"zlib-1.2.8/zlib.h"
+	"lzma920/C/LzmaLib.h"
+	<cassert>
+
+1394915361 c:\users\user\desktop\c++ progs\qwiffer\swfcompressor.h
+
+1394928070 source:c:\users\user\desktop\c++ progs\qwiffer\swftags.cpp
+	"SWFTags.h"
+	<cstring>
+
+1367195029 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\zlib.h
+	"zconf.h"
+
+1367189831 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1315696550 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\adler32.c
+	"zutil.h"
+
+1364190479 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\compress.c
+	"zlib.h"
+
+1335741492 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1335741492 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\crc32.h
+
+1367189830 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\deflate.c
+	"deflate.h"
+
+1338657403 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\deflate.h
+	"zutil.h"
+
+1266109968 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\gzclose.c
+	"gzguts.h"
+
+1365901446 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1364190479 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\gzlib.c
+	"gzguts.h"
+
+1364190479 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\gzread.c
+	"gzguts.h"
+
+1365901446 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1271650526 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inftrees.h
+
+1261791128 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inflate.h
+
+1271650561 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inffast.h
+
+1317871952 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inffixed.h
+
+1364190479 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1367189830 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1271611958 c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\trees.h
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\uncompr.c
+	"zlib.h"
+
+1344841360 source:c:\users\user\desktop\c++ progs\qwiffer\zlib-1.2.8\zutil.c
+	"zutil.h"
+	"gzguts.h"
+
+1259006432 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zcrc.c
+	"7zCrc.h"
+	"CpuArch.h"
+
+1258796898 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zcrc.h
+	"Types.h"
+
+1394953978 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\types.h
+	<stddef.h>
+	<windows.h>
+
+1288105480 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\cpuarch.h
+	"Types.h"
+
+1259005511 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zcrcopt.c
+	"CpuArch.h"
+
+1222257107 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\alloc.c
+	<windows.h>
+	<stdlib.h>
+	"Alloc.h"
+	<stdio.h>
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\alloc.h
+	<stddef.h>
+
+1271391379 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\bra.c
+	"Bra.h"
+
+1233992673 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\bra.h
+	"Types.h"
+
+1223113999 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\bra86.c
+	"Bra.h"
+
+1223113999 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\braia64.c
+	"Bra.h"
+
+1240402939 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzfind.c
+	<string.h>
+	"LzFind.h"
+	"LzHash.h"
+
+1240402939 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzfind.h
+	"Types.h"
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzhash.h
+
+1253442626 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzfindmt.c
+	"LzHash.h"
+	"LzFindMt.h"
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzfindmt.h
+	"LzFind.h"
+	"Threads.h"
+
+1238146675 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\threads.h
+	"Types.h"
+
+1253437997 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmadec.c
+	"LzmaDec.h"
+	<string.h>
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmadec.h
+	"Types.h"
+
+1271391628 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmaenc.c
+	<string.h>
+	<stdio.h>
+	"LzmaEnc.h"
+	"LzFind.h"
+	"LzFindMt.h"
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmaenc.h
+	"Types.h"
+
+1217944812 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmalib.c
+	"LzmaEnc.h"
+	"LzmaDec.h"
+	"Alloc.h"
+	"LzmaLib.h"
+
+1239086325 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzmalib.h
+	"Types.h"
+
+1253442550 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\threads.c
+	<process.h>
+	"Threads.h"
+
+1288369549 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zalloc.c
+	"7zAlloc.h"
+	<windows.h>
+	<stdio.h>
+
+1288369466 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zalloc.h
+	<stdlib.h>
+
+1206707814 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zbuf.c
+	"7zBuf.h"
+
+1233992673 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zbuf.h
+	"Types.h"
+
+1223113999 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zbuf2.c
+	<string.h>
+	"7zBuf.h"
+
+1288683545 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zdec.c
+	<string.h>
+	"7z.h"
+	"Bcj2.h"
+	"Bra.h"
+	"CpuArch.h"
+	"LzmaDec.h"
+	"Lzma2Dec.h"
+	"Ppmd7.h"
+
+1268308731 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7z.h
+	"7zBuf.h"
+
+1233992673 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\bcj2.h
+	"Types.h"
+
+1241348234 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma2dec.h
+	"LzmaDec.h"
+
+1268382571 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\ppmd7.h
+	"Ppmd.h"
+
+1268382562 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\ppmd.h
+	"Types.h"
+	"CpuArch.h"
+
+1259062506 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zfile.c
+	"7zFile.h"
+	<errno.h>
+
+1259062344 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zfile.h
+	<windows.h>
+	<stdio.h>
+	"Types.h"
+
+1288368958 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zin.c
+	<string.h>
+	"7z.h"
+	"7zCrc.h"
+	"CpuArch.h"
+
+1268310832 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\7zstream.c
+	<string.h>
+	"Types.h"
+
+1223113999 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\bcj2.c
+	"Bcj2.h"
+
+1288105381 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\cpuarch.c
+	"CpuArch.h"
+
+1243334913 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\delta.c
+	"Delta.h"
+
+1239787630 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\delta.h
+	"Types.h"
+
+1241348206 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma2dec.c
+	<stdio.h>
+	<string.h>
+	"Lzma2Dec.h"
+
+1285345099 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma2enc.c
+	<string.h>
+	"Lzma2Enc.h"
+	"MtCoder.h"
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma2enc.h
+	"LzmaEnc.h"
+
+1258654599 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\mtcoder.h
+	"Threads.h"
+
+1250255092 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma86dec.c
+	"Lzma86.h"
+	"Alloc.h"
+	"Bra.h"
+	"LzmaDec.h"
+
+1250255576 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma86.h
+	"Types.h"
+
+1250255092 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\lzma86enc.c
+	<string.h>
+	"Lzma86.h"
+	"Alloc.h"
+	"Bra.h"
+	"LzmaEnc.h"
+
+1285345099 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\mtcoder.c
+	<stdio.h>
+	"MtCoder.h"
+
+1268382576 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\ppmd7.c
+	<memory.h>
+	"Ppmd7.h"
+
+1268382580 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\ppmd7dec.c
+	"Ppmd7.h"
+
+1268382583 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\ppmd7enc.c
+	"Ppmd7.h"
+
+1276247159 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\sha256.c
+	"RotateDefs.h"
+	"Sha256.h"
+
+1233992674 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\rotatedefs.h
+	<stdlib.h>
+
+1276246978 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\sha256.h
+	"Types.h"
+
+1239787756 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xz.c
+	"7zCrc.h"
+	"CpuArch.h"
+	"Xz.h"
+	"XzCrc64.h"
+
+1284706002 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xz.h
+	"Sha256.h"
+
+1271408953 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzcrc64.h
+	<stddef.h>
+	"Types.h"
+
+1271408957 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzcrc64.c
+	"XzCrc64.h"
+
+1271393799 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzdec.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"7zCrc.h"
+	"Alloc.h"
+	"Bra.h"
+	"CpuArch.h"
+	"Delta.h"
+	"Lzma2Dec.h"
+	"SbDec.h"
+	"Xz.h"
+
+1244090669 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzenc.c
+	<stdlib.h>
+	<string.h>
+	"7zCrc.h"
+	"Alloc.h"
+	"Bra.h"
+	"CpuArch.h"
+	"SbEnc.h"
+	"XzEnc.h"
+
+1239787756 c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzenc.h
+	"Lzma2Enc.h"
+	"Xz.h"
+
+1245392164 source:c:\users\user\desktop\c++ progs\qwiffer\lzma920\c\xzin.c
+	<string.h>
+	"7zCrc.h"
+	"CpuArch.h"
+	"Xz.h"
+
+1394414647 source:c:\users\user\desktop\c++ progs\qwiffer\src\basictypes.cpp
+	"BasicTypes.h"
+
+1394774898 c:\users\user\desktop\c++ progs\qwiffer\src\basictypes.h
+	<climits>
+	<cstdint>
+
+1394851127 source:c:\users\user\desktop\c++ progs\qwiffer\src\basictypesreader.cpp
+	"BasicTypesReader.h"
+
+1394840273 c:\users\user\desktop\c++ progs\qwiffer\src\basictypesreader.h
+	"BasicTypes.h"
+
+1395183133 source:c:\users\user\desktop\c++ progs\qwiffer\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"SWFReader.h"
+
+1394840401 c:\users\user\desktop\c++ progs\qwiffer\src\swfreader.h
+	"SWFStruct.h"
+	<memory>
+
+1395190613 c:\users\user\desktop\c++ progs\qwiffer\src\swfstruct.h
+	<string>
+	<vector>
+	"SWFTags.h"
+
+1394927984 c:\users\user\desktop\c++ progs\qwiffer\src\swftags.h
+	"BasicTypes.h"
+
+1394953712 source:c:\users\user\desktop\c++ progs\qwiffer\src\swfcompressor.cpp
+	"SWFCompressor.h"
+	"zlib-1.2.8/zlib.h"
+	"lzma920/C/LzmaLib.h"
+	<cassert>
+
+1394915361 c:\users\user\desktop\c++ progs\qwiffer\src\swfcompressor.h
+
+1367195029 c:\users\user\desktop\c++ progs\qwiffer\src\zlib-1.2.8\zlib.h
+	"zconf.h"
+
+1367189831 c:\users\user\desktop\c++ progs\qwiffer\src\zlib-1.2.8\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1239086325 c:\users\user\desktop\c++ progs\qwiffer\src\lzma920\c\lzmalib.h
+	"Types.h"
+
+1394953978 c:\users\user\desktop\c++ progs\qwiffer\src\lzma920\c\types.h
+	<stddef.h>
+	<windows.h>
+
+1394916440 source:c:\users\user\desktop\c++ progs\qwiffer\src\swfreader.cpp
+	"SWFReader.h"
+	"BasicTypesReader.h"
+	"SWFCompressor.h"
+	<cstring>
+	<iostream>
+
+1394929995 source:c:\users\user\desktop\c++ progs\qwiffer\src\swfstruct.cpp
+	"SWFStruct.h"
+
+1394928070 source:c:\users\user\desktop\c++ progs\qwiffer\src\swftags.cpp
+	"SWFTags.h"
+	<cstring>
+
+1394411047 source:c:\users\user\desktop\progs\c++\qwiffer\src\basictypes.cpp
+	"BasicTypes.h"
+
+1394771298 c:\users\user\desktop\progs\c++\qwiffer\src\basictypes.h
+	<climits>
+	<cstdint>
+
+1394847527 source:c:\users\user\desktop\progs\c++\qwiffer\src\basictypesreader.cpp
+	"BasicTypesReader.h"
+
+1394836673 c:\users\user\desktop\progs\c++\qwiffer\src\basictypesreader.h
+	"BasicTypes.h"
+
+1394926395 source:c:\users\user\desktop\progs\c++\qwiffer\src\swfstruct.cpp
+	"SWFStruct.h"
+
+1395187013 c:\users\user\desktop\progs\c++\qwiffer\src\swfstruct.h
+	<string>
+	<vector>
+	"SWFTags.h"
+
+1394924384 c:\users\user\desktop\progs\c++\qwiffer\src\swftags.h
+	"BasicTypes.h"
+
+1394924470 source:c:\users\user\desktop\progs\c++\qwiffer\src\swftags.cpp
+	"SWFTags.h"
+	<cstring>
+
+1315692950 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\adler32.c
+	"zutil.h"
+
+1364186879 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1367191429 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\zlib.h
+	"zconf.h"
+
+1395220018 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\compress.c
+	"zlib.h"
+
+1335737892 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1335737892 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\crc32.h
+
+1367186230 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\deflate.c
+	"deflate.h"
+
+1338653803 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\deflate.h
+	"zutil.h"
+
+1266106368 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\gzclose.c
+	"gzguts.h"
+
+1365897846 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1364186879 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\gzlib.c
+	"gzguts.h"
+
+1364186879 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\gzread.c
+	"gzguts.h"
+
+1365897846 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1271646926 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inftrees.h
+
+1261787528 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inflate.h
+
+1271646961 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inffast.h
+
+1317868352 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inffixed.h
+
+1364186879 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1367186230 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1271608358 c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\trees.h
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\uncompr.c
+	"zlib.h"
+
+1344837760 source:c:\users\user\desktop\progs\c++\qwiffer\src\zlib-1.2.8\zutil.c
+	"zutil.h"
+	"gzguts.h"
+
+1395865257 source:c:\users\user\desktop\progs\c++\qwiffer\src\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"SWFReader.h"
+
+1394836801 c:\users\user\desktop\progs\c++\qwiffer\src\swfreader.h
+	"SWFStruct.h"
+	<memory>
+
+1395862207 source:c:\users\user\desktop\progs\c++\qwiffer\src\swfcompressor.cpp
+	"SWFCompressor.h"
+	"zlib-1.2.8/zlib.h"
+	"lzma920/C/LzmaLib.h"
+	<cassert>
+
+1395770876 c:\users\user\desktop\progs\c++\qwiffer\src\swfcompressor.h
+
+1239082725 c:\users\user\desktop\progs\c++\qwiffer\src\lzma920\c\lzmalib.h
+	"Types.h"
+
+1394950378 c:\users\user\desktop\progs\c++\qwiffer\src\lzma920\c\types.h
+	<stddef.h>
+	<windows.h>
+
+1395862725 source:c:\users\user\desktop\progs\c++\qwiffer\src\swfreader.cpp
+	"SWFReader.h"
+	"BasicTypesReader.h"
+	"SWFCompressor.h"
+	"zlib-1.2.8/zlib.h"
+	"lzma920/C/LzmaLib.h"
+	<cstring>
+	<iostream>
+

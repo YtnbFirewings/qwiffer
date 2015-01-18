@@ -1,0 +1,10 @@
+hi
+#ifndef QWIFFER_SWFWRITER_H
+#define QWIFFER_SWFWRITER_H
+
+namespace Qwiffer
+{
+
+}
+
+#endif // QWIFFER_SWFWRITER_H
